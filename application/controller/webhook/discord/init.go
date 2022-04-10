@@ -15,7 +15,7 @@ import (
 )
 
 var (
-	Token   = "OTI0NTEwNTk1MDkxNDE1MDQw.Ycfnlg.TFM3Rl7za2QK-bLnCmsRES-3DQo"
+	Token   = ""
 	BotName = "Tsukuyomi"
 	//stopBot           = make(chan bool)
 	//vcsession         *discordgo.VoiceConnection
